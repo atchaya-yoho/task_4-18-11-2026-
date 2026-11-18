@@ -21,3 +21,10 @@ Columns: id, name, department, salary, city
 
 # Bonus
 Data dictionary created using df.types and isna().sum()
+
+# Data summary
+->Total rows:8
+->Total columns:5
+->columns:id,name,department,salary,city
+->Missing values:0
+->Duplicates:0
